@@ -1,0 +1,3 @@
+export const OPEN_SUBMENU = 'OPEN_SUBMENU'
+export const CLOSE_SUBMENU = 'CLOSE_SUBMENU'
+export const RESET_SUBMENU = 'RESET_SUBMENU'
